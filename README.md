@@ -1,6 +1,4 @@
-# NIDAR-AirAID
-
-# 🛰️ IIITDM Kurnool Drone Mapping Project
+# AirAID
 
 This repository contains elevation data and KML files representing a detailed mapping and surveillance plan of the IIITDM Kurnool campus using Google Earth Pro. The dataset is divided into academic and residential zones, aiding in:
 
