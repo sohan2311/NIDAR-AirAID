@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>CricketFootball Ground  IIITDMK.kml</name>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff00f600</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff00f600</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>Cricket/Football Ground : IIITDMK</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				78.03526376032961,15.75789500396673,0 78.03543873066235,15.75795524756671,0 78.03555033585744,15.75794726259192,0 78.03570860448517,15.75795362759047,0 78.03589048930013,15.75795617489151,0 78.03602872160016,15.75795090935368,0 78.03620670475861,15.75797457722188,0 78.03635948225349,15.75795586139086,0 78.0365346897015,15.75787426494817,0 78.03670399781906,15.75778280985735,0 78.03682224273767,15.75770145054241,0 78.03694777553216,15.7576531107633,0 78.03703694726279,15.75760833970739,0 78.03703392200785,15.75753504444956,0 78.03700844209857,15.75742386291115,0 78.03691172410684,15.75729430799151,0 78.03688225247683,15.75719294745495,0 78.03683655387377,15.75699110405566,0 78.03680663203643,15.75682393992379,0 78.03674054733109,15.75672424410009,0 78.03650244372082,15.75665483627921,0 78.03630761218218,15.75658133468706,0 78.0360882344318,15.7565420550846,0 78.03588582289855,15.75658585917764,0 78.03569950882374,15.75673478130631,0 78.03556586923425,15.75689523722878,0 78.03544477795261,15.75704460407586,0 78.03538454302442,15.75712854920334,0 78.03536404281752,15.75720953113421,0 78.03540740087848,15.75722732720573,0 78.03541639363647,15.7572927652113,0 78.0354435645359,15.75741886673839,0 78.03547724606165,15.75752510764624,0 78.03547560571103,15.75763031365721,0 78.035418016509,15.75771978188821,0 78.03528658379814,15.75772980440724,0 78.03526376032961,15.75789500396673,0 
+			</coordinates>
+		</LineString>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Placemark>
+</Document>
+</kml>

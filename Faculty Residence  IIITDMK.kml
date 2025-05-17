@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Faculty Residence  IIITDMK.kml</name>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>Faculty Residence : IIITDMK</name>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				78.03605600530915,15.75894821095231,0 78.03613684807887,15.75895722771062,0 78.03616302273133,15.75893618751307,0 78.03613684807887,15.75895722771062,0 78.03618094132875,15.75894199833839,0 78.03614825810899,15.75895690232028,0 78.03622210443177,15.75890865588929,0 78.03636674051984,15.75873133618424,0 78.03652388375961,15.75849505752075,0 78.03665290352295,15.75830272460784,0 78.03677723588893,15.75814648292041,0 78.03685977109922,15.75810297805429,0 78.03685931244486,15.75800870415189,0 78.03694638999291,15.7579928385575,0 78.03703734829014,15.75797134188596,0 78.03710406364303,15.75796595011129,0 78.03712380508733,15.75804026040585,0 78.03714584707853,15.75814391697768,0 78.03715997234342,15.75822067102838,0 78.03716270410523,15.75827345269014,0 78.03715205661975,15.75832924836467,0 78.03704992707709,15.75834531432115,0 78.03697971738913,15.75836954934861,0 78.03689766428559,15.75839832837798,0 78.03684436776665,15.75848729941424,0 78.03682065852351,15.75856533916308,0 78.03680105563311,15.75865824407725,0 78.03674618877749,15.75873020475477,0 78.03665860291208,15.75883856163699,0 78.03655485305016,15.75891483377623,0 78.03646539612232,15.75900117877836,0 78.03640785394626,15.75902609285369,0 78.0363372198056,15.75903011040103,0 78.03619854337192,15.75905786989952,0 78.0360606234506,15.75907821612009,0 78.03598500222076,15.75911218786188,0 78.03592072406484,15.75912725510239,0 78.03589808794267,15.75913643849868,0 78.03594034127342,15.75908756696092,0 78.035993553735,15.75902677730325,0 78.03601268865256,15.75899443533663,0 78.03603690797391,15.75895539587396,0 78.03605600530915,15.75894821095231,0 
+			</coordinates>
+		</LineString>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10201"></atom:link>
+	</Placemark>
+</Document>
+</kml>
