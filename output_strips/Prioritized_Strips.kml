@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Prioritized_Strips" id="Prioritized_Strips">
+	<SimpleField name="has_water" type="int"></SimpleField>
+	<SimpleField name="has_building" type="int"></SimpleField>
+	<SimpleField name="distance_to_station" type="float"></SimpleField>
+	<SimpleField name="priority_group" type="string"></SimpleField>
+	<SimpleField name="strip_order" type="string"></SimpleField>
+</Schema>
+<Folder><name>Prioritized_Strips</name>
+  <Placemark id="Prioritized_Strips.1">
+	<name>1</name>
+	<description>0</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Prioritized_Strips">
+		<SimpleData name="has_water">1</SimpleData>
+		<SimpleData name="has_building">1</SimpleData>
+		<SimpleData name="distance_to_station">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>78.0591000225674,15.760821600941 78.0605925305893,15.76080061449 78.0606227282534,15.7606383496143 78.0605897472448,15.7606200627125 78.0591438530865,15.7606403936442 78.0591000225674,15.760821600941</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark id="Prioritized_Strips.2">
+	<name>1</name>
+	<description>0</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Prioritized_Strips">
+		<SimpleData name="has_water">1</SimpleData>
+		<SimpleData name="has_building">1</SimpleData>
+		<SimpleData name="distance_to_station">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>78.059056191999,15.7610028082401 78.0605588342016,15.7609816793411 78.0605925305893,15.76080061449 78.0591000225674,15.760821600941 78.059056191999,15.7610028082401</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark id="Prioritized_Strips.3">
+	<name>1</name>
+	<description>0</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Prioritized_Strips">
+		<SimpleData name="has_water">1</SimpleData>
+		<SimpleData name="has_building">1</SimpleData>
+		<SimpleData name="distance_to_station">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>78.0590123613815,15.7611840155417 78.0605251377835,15.7611627441949 78.0605588342016,15.7609816793411 78.059056191999,15.7610028082401 78.0590123613815,15.7611840155417</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark id="Prioritized_Strips.4">
+	<name>1</name>
+	<description>0</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Prioritized_Strips">
+		<SimpleData name="has_water">1</SimpleData>
+		<SimpleData name="has_building">1</SimpleData>
+		<SimpleData name="distance_to_station">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>78.0591438530865,15.7606403936442 78.0605897472448,15.7606200627125 78.060272103366,15.7604439390008 78.0591876835565,15.7604591863498 78.0591438530865,15.7606403936442</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark id="Prioritized_Strips.5">
+	<name>0</name>
+	<description>0</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Prioritized_Strips">
+		<SimpleData name="has_water">1</SimpleData>
+		<SimpleData name="has_building">1</SimpleData>
+		<SimpleData name="distance_to_station">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>78.0604296092061,15.7616760580531 78.0604577448557,15.7615248739111 78.0593423627288,15.7615405584398 78.0604296092061,15.7616760580531</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark id="Prioritized_Strips.6">
+	<name>0</name>
+	<description>0</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Prioritized_Strips">
+		<SimpleData name="has_water">1</SimpleData>
+		<SimpleData name="has_building">1</SimpleData>
+		<SimpleData name="distance_to_station">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>78.0589383009921,15.7614902002141 78.0593423627288,15.7615405584398 78.0604577448557,15.7615248739111 78.0604914413348,15.7613438090516 78.0589685307147,15.7613652228457 78.0589383009921,15.7614902002141</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark id="Prioritized_Strips.7">
+	<name>0</name>
+	<description>0</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Prioritized_Strips">
+		<SimpleData name="has_water">1</SimpleData>
+		<SimpleData name="has_building">1</SimpleData>
+		<SimpleData name="distance_to_station">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>78.0589685307147,15.7613652228457 78.0604914413348,15.7613438090516 78.0605251377835,15.7611627441949 78.0590123613815,15.7611840155417 78.0589685307147,15.7613652228457</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark id="Prioritized_Strips.8">
+	<name>0</name>
+	<description>0</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Prioritized_Strips">
+		<SimpleData name="has_water">1</SimpleData>
+		<SimpleData name="has_building">1</SimpleData>
+		<SimpleData name="distance_to_station">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>78.0591876835565,15.7604591863498 78.060272103366,15.7604439390008 78.0599544599775,15.760267814725 78.0592315139772,15.7602779790578 78.0591876835565,15.7604591863498</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark id="Prioritized_Strips.9">
+	<name>0</name>
+	<description>0</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Prioritized_Strips">
+		<SimpleData name="has_water">1</SimpleData>
+		<SimpleData name="has_building">1</SimpleData>
+		<SimpleData name="distance_to_station">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>78.0592315139772,15.7602779790578 78.0599544599775,15.760267814725 78.0596368170792,15.760091689885 78.0592753443488,15.7600967717681 78.0592315139772,15.7602779790578</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark id="Prioritized_Strips.10">
+	<name>0</name>
+	<description>0</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Prioritized_Strips">
+		<SimpleData name="has_water">1</SimpleData>
+		<SimpleData name="has_building">1</SimpleData>
+		<SimpleData name="distance_to_station">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>78.0592753443488,15.7600967717681 78.0596368170792,15.760091689885 78.0593191746711,15.7599155644809 78.0592753443488,15.7600967717681</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="new_area_Strips" id="new_area_Strips">
+	<SimpleField name="has_water" type="int"></SimpleField>
+	<SimpleField name="has_building" type="int"></SimpleField>
+	<SimpleField name="distance_to_station" type="float"></SimpleField>
+	<SimpleField name="priority_group" type="string"></SimpleField>
+	<SimpleField name="strip_order" type="string"></SimpleField>
+</Schema>
+<Folder><name>new_area_Strips</name>
+  <Placemark id="new_area_Strips.1">
+	<name>1</name>
+	<description>0</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#new_area_Strips">
+		<SimpleData name="has_water">1</SimpleData>
+		<SimpleData name="has_building">1</SimpleData>
+		<SimpleData name="distance_to_station">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>78.0632511070201,15.7593523829117 78.0618381760049,15.759372266331 78.0619366001387,15.7595514723024 78.0632036322299,15.7595336417089 78.0632511070201,15.7593523829117</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark id="new_area_Strips.2">
+	<name>1</name>
+	<description>0</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#new_area_Strips">
+		<SimpleData name="has_water">1</SimpleData>
+		<SimpleData name="has_building">1</SimpleData>
+		<SimpleData name="distance_to_station">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>78.0632985817542,15.7591711241164 78.0617397520657,15.7591930602819 78.0618381760049,15.759372266331 78.0632511070201,15.7593523829117 78.0632985817542,15.7591711241164</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark id="new_area_Strips.3">
+	<name>1</name>
+	<description>0</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#new_area_Strips">
+		<SimpleData name="has_water">1</SimpleData>
+		<SimpleData name="has_building">1</SimpleData>
+		<SimpleData name="distance_to_station">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>78.0633460564325,15.7589898653232 78.061641328321,15.7590138541549 78.0617397520657,15.7591930602819 78.0632985817542,15.7591711241164 78.0633460564325,15.7589898653232</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark id="new_area_Strips.4">
+	<name>1</name>
+	<description>0</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#new_area_Strips">
+		<SimpleData name="has_water">1</SimpleData>
+		<SimpleData name="has_building">1</SimpleData>
+		<SimpleData name="distance_to_station">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>78.0633935310548,15.7588086065321 78.0615429047707,15.7588346479501 78.061641328321,15.7590138541549 78.0633460564325,15.7589898653232 78.0633935310548,15.7588086065321</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark id="new_area_Strips.5">
+	<name>0</name>
+	<description>0</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#new_area_Strips">
+		<SimpleData name="has_water">1</SimpleData>
+		<SimpleData name="has_building">1</SimpleData>
+		<SimpleData name="distance_to_station">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>78.0619554231819,15.7579258907143 78.0635754836879,15.7579030927028 78.0633533494036,15.7577256288021 78.062138305074,15.7577427270108 78.0619554231819,15.7579258907143</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark id="new_area_Strips.6">
+	<name>0</name>
+	<description>0</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#new_area_Strips">
+		<SimpleData name="has_water">1</SimpleData>
+		<SimpleData name="has_building">1</SimpleData>
+		<SimpleData name="distance_to_station">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>78.062138305074,15.7577427270108 78.0633533494036,15.7577256288021 78.0631312154925,15.7575481646031 78.0623211866394,15.757559563209 78.062138305074,15.7577427270108</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark id="new_area_Strips.7">
+	<name>0</name>
+	<description>0</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#new_area_Strips">
+		<SimpleData name="has_water">1</SimpleData>
+		<SimpleData name="has_building">1</SimpleData>
+		<SimpleData name="distance_to_station">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>78.0623211866394,15.757559563209 78.0631312154925,15.7575481646031 78.0629090819545,15.757370700106 78.0625040678779,15.757376399309 78.0623211866394,15.757559563209</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark id="new_area_Strips.8">
+	<name>0</name>
+	<description>0</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#new_area_Strips">
+		<SimpleData name="has_water">1</SimpleData>
+		<SimpleData name="has_building">1</SimpleData>
+		<SimpleData name="distance_to_station">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>78.0625040678779,15.757376399309 78.0629090819545,15.757370700106 78.0626869487898,15.7571932353107 78.0625040678779,15.757376399309</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark id="new_area_Strips.9">
+	<name>0</name>
+	<description>0</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#new_area_Strips">
+		<SimpleData name="has_water">1</SimpleData>
+		<SimpleData name="has_building">1</SimpleData>
+		<SimpleData name="distance_to_station">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>78.0617725409631,15.7581090543195 78.0635834289846,15.7580835713877 78.0636211447087,15.7579395713872 78.0635754836879,15.7579030927028 78.0619554231819,15.7579258907143 78.0617725409631,15.7581090543195</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark id="new_area_Strips.10">
+	<name>0</name>
+	<description>0</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#new_area_Strips">
+		<SimpleData name="has_water">1</SimpleData>
+		<SimpleData name="has_building">1</SimpleData>
+		<SimpleData name="distance_to_station">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>78.0615896584175,15.7582922178264 78.0635359545861,15.7582648301707 78.0635834289846,15.7580835713877 78.0617725409631,15.7581090543195 78.0615896584175,15.7582922178264</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark id="new_area_Strips.11">
+	<name>0</name>
+	<description>0</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#new_area_Strips">
+		<SimpleData name="has_water">1</SimpleData>
+		<SimpleData name="has_building">1</SimpleData>
+		<SimpleData name="distance_to_station">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>78.0619823149971,15.7596347075907 78.063186626848,15.7595985682231 78.0632036322299,15.7595336417089 78.0619366001387,15.7595514723024 78.0619823149971,15.7596347075907</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark id="new_area_Strips.12">
+	<name>0</name>
+	<description>0</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#new_area_Strips">
+		<SimpleData name="has_water">1</SimpleData>
+		<SimpleData name="has_building">1</SimpleData>
+		<SimpleData name="distance_to_station">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>78.0614067755451,15.758475381235 78.0634884801316,15.7584460889558 78.0635359545861,15.7582648301707 78.0615896584175,15.7582922178264 78.0614067755451,15.758475381235</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark id="new_area_Strips.13">
+	<name>0</name>
+	<description>0</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#new_area_Strips">
+		<SimpleData name="has_water">1</SimpleData>
+		<SimpleData name="has_building">1</SimpleData>
+		<SimpleData name="distance_to_station">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>78.0634410056211,15.7586273477429 78.061444481415,15.7586554416676 78.0615429047707,15.7588346479501 78.0633935310548,15.7588086065321 78.0634410056211,15.7586273477429</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark id="new_area_Strips.14">
+	<name>0</name>
+	<description>0</description>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#new_area_Strips">
+		<SimpleData name="has_water">1</SimpleData>
+		<SimpleData name="has_building">1</SimpleData>
+		<SimpleData name="distance_to_station">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>78.0613673019521,15.7585149153233 78.061444481415,15.7586554416676 78.0634410056211,15.7586273477429 78.0634884801316,15.7584460889558 78.0614067755451,15.758475381235 78.0613673019521,15.7585149153233</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
