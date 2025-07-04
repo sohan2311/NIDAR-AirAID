@@ -1,0 +1,92 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "89a53337-584a-4d0c-9470-8097cf03e1ef")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 53.34 22.86)
+		(size 31.75 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "75093160-75ef-41c5-b785-aab54786a717")
+		(property "Sheetname" "soc_pwr_dc_dc"
+			(at 53.34 22.1484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "soc_pwr_dc_dc.kicad_sch"
+			(at 53.34 43.7646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "nidar_telemetry"
+				(path "/efd31185-3543-47ff-8a92-495737e3ec23/35632bfe-e329-46c0-8d16-801230967f8f"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 19.05 22.86)
+		(size 30.48 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d5908f0b-505c-4bdf-84ff-371ee2c7943a")
+		(property "Sheetname" "mcu_2_pwr"
+			(at 19.05 22.1484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu_2_pwr.kicad_sch"
+			(at 19.05 43.7646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "nidar_telemetry"
+				(path "/efd31185-3543-47ff-8a92-495737e3ec23/35632bfe-e329-46c0-8d16-801230967f8f"
+					(page "7")
+				)
+			)
+		)
+	)
+)
